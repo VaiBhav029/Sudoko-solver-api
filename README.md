@@ -1,0 +1,38 @@
+# Suduoko Solver API
+
+![Project Logo](path/to/logo.png)
+
+## Table of Contents
+
+1. [Introduction](#introduction)
+2. [Features](#features)
+3. [Installation](#installation)
+4. [Usage](#usage)
+
+## Introduction
+
+Welcome to the Suduko Solver API
+
+## Features
+
+- Provide suduoko board values , solved response will be provided
+- Solver board uses backtracking algorithm under the hood
+- Create a front end and make a solved game
+
+## Installation
+
+To install this project, follow these steps:
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/your-username/your-repo.git
+2. Navigate to the project directory:
+   ```bash
+   cd your-repo
+3.Start the boot application
+O - Represents the values to be filled 
+![image](https://github.com/user-attachments/assets/27226811-5978-4cff-9931-2972bfb32770)
+
+
+
+
