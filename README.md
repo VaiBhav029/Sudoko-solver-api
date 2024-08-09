@@ -1,6 +1,5 @@
-# Suduoko Solver API
+<span><h1>Suduoko Solver API </h1><span><img src="https://github.com/user-attachments/assets/a9ce3e84-a801-4f9a-b359-37cf59a727a7" alt="Project Logo" width="100">
 
-![Project Logo](path/to/logo.png)
 
 ## Table of Contents
 
