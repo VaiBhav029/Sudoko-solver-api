@@ -25,10 +25,10 @@ To install this project, follow these steps:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/your-repo.git
+  git clone https://github.com/VaiBhav029/Sudoko-solver-api.git
 2. Navigate to the project directory:
    ```bash
-   cd your-repo
+   cd Sudoko-solved=api
 3.Start the boot application
 O - Represents the values to be filled 
 ![image](https://github.com/user-attachments/assets/27226811-5978-4cff-9931-2972bfb32770)
